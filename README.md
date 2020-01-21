@@ -165,15 +165,15 @@ Output:
 
 _    T    _    _    _    _
 
-w    s    s    w    w    -
+w    s    s    w    w    _
 
--    s    w    -    -    -
+_    s    w    _    _    _
 
-s    -    -    w    -    -
+s    _    _    w    _    _
 
--    -    -    s    -    s
+_    _    _    s    _    s
 
--    -    -    I    -    -
+_    _    _    I    _    _
 
 
 
