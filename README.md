@@ -730,9 +730,9 @@ There exists an nXm grid which contains *stones*, *warriors* (Thanos warriors), 
 
 The following search strategies were used by the AI search agent to find solutions to the problem
 
-** 1- A* Search
-2- Greedy Search
-3- DFS
-4- BFS
-5- UCS
-6- IDS **
+**1. A* Search**
+**2. Greedy Search**
+**3. DFS**
+**4. BFS**
+**5. UCS**
+**6. IDS**
