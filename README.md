@@ -163,7 +163,7 @@ _solve_(grid6,&quot;BF&quot;, **true** );
 
 Output:
 
--    T    -    -    -    -
+_    T    _    _    _    _
 
 w    s    s    w    w    -
 
